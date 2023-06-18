@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "item": "PS",
+            "quantity": 8,
+            "price": 4000,
+            "buyer": "Sony",
+            "date": "02.02.2023"
+        },
+        {
+            "item": "Laptop",
+            "quantity": 3,
+            "price": 200,
+            "buyer": "Micron",
+            "date": "02.01.2023"
+        }
+    ]
+}
